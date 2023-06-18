@@ -1,1 +1,6 @@
 content in branch1
+
+branch2 edit
+
+branch1 edit
+
